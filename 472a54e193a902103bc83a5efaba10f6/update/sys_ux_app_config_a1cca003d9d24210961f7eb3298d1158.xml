@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_config">
+    <sys_ux_app_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <custom_icon/>
+        <default_route_type/>
+        <description/>
+        <disable_auto_reflow>false</disable_auto_reflow>
+        <encode_query_string>false</encode_query_string>
+        <icon/>
+        <landing_path>home</landing_path>
+        <name>Tratamento de Material App Config</name>
+        <prefetch_limits/>
+        <sys_class_name>sys_ux_app_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-25 11:46:21</sys_created_on>
+        <sys_id>a1cca003d9d24210961f7eb3298d1158</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tratamento de Material App Config</sys_name>
+        <sys_package display_value="Now Pro - Aula 6" source="x_1328471_now_pr_0">472a54e193a902103bc83a5efaba10f6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Pro - Aula 6">472a54e193a902103bc83a5efaba10f6</sys_scope>
+        <sys_update_name>sys_ux_app_config_a1cca003d9d24210961f7eb3298d1158</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-25 11:46:21</sys_updated_on>
+    </sys_ux_app_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=a1cca003d9d24210961f7eb3298d1158"/>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-25 11:46:25</sys_created_on>
+        <sys_id>e6cc240393d242103bc83a5efaba1002</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x.1328471.tratamento-de-material.*.x_1328471_now_pr_0.admin</sys_name>
+        <sys_package display_value="Now Pro - Aula 6" source="x_1328471_now_pr_0">472a54e193a902103bc83a5efaba10f6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Pro - Aula 6">472a54e193a902103bc83a5efaba10f6</sys_scope>
+        <sys_security_acl display_value="x.1328471.tratamento-de-material.*">d1cca00301d24210453d90877937814e</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_e6cc240393d242103bc83a5efaba1002</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-25 11:46:25</sys_updated_on>
+        <sys_user_role display_value="x_1328471_now_pr_0.admin" name="x_1328471_now_pr_0.admin">8b2a94e193a902103bc83a5efaba103c</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

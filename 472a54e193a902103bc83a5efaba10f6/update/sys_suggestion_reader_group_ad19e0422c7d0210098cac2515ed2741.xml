@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_suggestion_reader_group">
+    <sys_suggestion_reader_group action="INSERT_OR_UPDATE">
+        <click_in_mode>false</click_in_mode>
+        <context_config_id display_value="Now Pro - Aula 6 AI Search Configuration">6d19e0420a7d0210f31e34e2c6123439</context_config_id>
+        <limit>5</limit>
+        <order>500</order>
+        <section_header>Recently viewed</section_header>
+        <suggestion_type>User History Reader Group for Starter Workspace AI Search Configuration</suggestion_type>
+        <sys_class_name>sys_suggestion_reader_group</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-27 12:24:56</sys_created_on>
+        <sys_id>ad19e0422c7d0210098cac2515ed2741</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>User History Reader Group for Starter Workspace AI Search Configuration</sys_name>
+        <sys_package display_value="Now Pro - Aula 6" source="x_1328471_now_pr_0">472a54e193a902103bc83a5efaba10f6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Pro - Aula 6">472a54e193a902103bc83a5efaba10f6</sys_scope>
+        <sys_update_name>sys_suggestion_reader_group_ad19e0422c7d0210098cac2515ed2741</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-27 12:24:56</sys_updated_on>
+    </sys_suggestion_reader_group>
+</record_update>

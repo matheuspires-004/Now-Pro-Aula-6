@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Solicitação de Material">5a67eca193e902103bc83a5efaba1026</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-13 12:57:11</sys_created_on>
+        <sys_id>b93a28a593e902103bc83a5efaba1014</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Solicitação de Material</sys_name>
+        <sys_package display_value="Now Pro - Aula 6" source="x_1328471_now_pr_0">472a54e193a902103bc83a5efaba10f6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Pro - Aula 6">472a54e193a902103bc83a5efaba10f6</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_b93a28a593e902103bc83a5efaba1014</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-13 12:57:11</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>

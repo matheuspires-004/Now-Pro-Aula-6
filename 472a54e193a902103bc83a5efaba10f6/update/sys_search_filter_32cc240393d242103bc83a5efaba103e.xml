@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter">
+    <sys_search_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ais_search_source display_value="Tipo de Material">30738608930202103bc83a5efaba101b</ais_search_source>
+        <label>Tipo de Material</label>
+        <name>Tipo de Material</name>
+        <order>200</order>
+        <search_context_config display_value="Tratamento de Material AI Search Configuration">95cca003f0d24210cb15b139b8181d4e</search_context_config>
+        <sys_class_name>sys_search_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-25 11:46:26</sys_created_on>
+        <sys_id>32cc240393d242103bc83a5efaba103e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tipo de Material</sys_name>
+        <sys_package display_value="Now Pro - Aula 6" source="x_1328471_now_pr_0">472a54e193a902103bc83a5efaba10f6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Pro - Aula 6">472a54e193a902103bc83a5efaba10f6</sys_scope>
+        <sys_update_name>sys_search_filter_32cc240393d242103bc83a5efaba103e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-25 11:46:26</sys_updated_on>
+    </sys_search_filter>
+</record_update>

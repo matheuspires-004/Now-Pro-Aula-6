@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="d8ab106593a902103bc83a5efaba10e5" extends="task" label="Material" max_length="40" name="x_1328471_now_pr_0_material" type="collection">
+        <element label="Email" max_length="250" name="email" type="string"/>
+        <element label="Material" max_length="32" name="material" reference="x_1328471_now_pr_0_tipo_de_material" type="reference"/>
+        <element label="Quantidade" max_length="40" name="quantidade" type="integer"/>
+        <element label="Solicitante" max_length="32" name="solicitante" reference="sys_user" type="reference"/>
+    </element>
+</database>

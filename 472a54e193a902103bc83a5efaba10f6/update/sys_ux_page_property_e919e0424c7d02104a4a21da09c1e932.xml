@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>A default view for Now Pro - Aula 6 generated</description>
+        <name>view</name>
+        <page display_value="Now Pro - Aula 6">e119e0424e7d0210d5e5c4040bdf6743</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-27 12:24:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>e919e0424c7d02104a4a21da09c1e932</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>view</sys_name>
+        <sys_package display_value="Now Pro - Aula 6" source="x_1328471_now_pr_0">472a54e193a902103bc83a5efaba10f6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Pro - Aula 6">472a54e193a902103bc83a5efaba10f6</sys_scope>
+        <sys_update_name>sys_ux_page_property_e919e0424c7d02104a4a21da09c1e932</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-27 12:24:57</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_1328471_now_pr_0.e119e0424e7d0210d5e5c4040bdf6743.root.view</unique_name>
+        <value>workspace-now-pro---aula-6-0</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=e919e0424c7d02104a4a21da09c1e932"/>
+</record_update>
